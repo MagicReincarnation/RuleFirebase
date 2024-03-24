@@ -1,0 +1,2 @@
+# RuleFirebase
+Setting rule firebase
